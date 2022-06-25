@@ -1,0 +1,17 @@
+#Youtubetext {
+    
+    color: red;
+}
+
+
+#one {
+    position: absolute;
+    left: 0px;
+    top: 200px;
+    width: 9000px;
+    text-emphasis-color: red;
+    height: 120px;
+    z-index: 2;
+        background-color: black;
+}
+
